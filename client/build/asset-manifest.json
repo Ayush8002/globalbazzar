@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.16bcfe68.css",
+    "main.js": "/static/js/main.a7f62f22.js",
+    "static/media/GlobalBazzar-logo.psd.png": "/static/media/GlobalBazzar-logo.psd.bf5541e091d25f8de844.png",
+    "index.html": "/index.html",
+    "main.16bcfe68.css.map": "/static/css/main.16bcfe68.css.map",
+    "main.a7f62f22.js.map": "/static/js/main.a7f62f22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16bcfe68.css",
+    "static/js/main.a7f62f22.js"
+  ]
+}
